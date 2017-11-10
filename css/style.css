@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightgrey;
+  font-family: "Georgia", "Times New Roman", Times, serif;
+  }
+}
+
+.container {
+  width: 1020px;
+  margin: 0 auto;
+}
+
+header {
+  color: #F0F8FF;
+  padding: 10px;
+  background-color: darkslategrey;
+  text-align: center;
+}
+#bio_image {
+  float: left;
+  margin: 10px 20px 10px 0px;
+  height: 250px;
+  width: 300px;
+}
+
+h2 {
+  font-size: 28px;
+}
+#main_bio {
+  float: left;
+  max-width: 60%;
+  margin-left: 35px;
+  font-size: 20px;
+}
+#contact {
+  color: #d21034;
+}
+a {
+  color: olivedrab;
+}
+#contact_info {
+  float: right;
+  width: 30%;
+  margin-right: 35px;
+  font-size: 20px;
+}
